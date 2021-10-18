@@ -1,5 +1,5 @@
 # Note About This Repository
-This repository was imported from MASA's private Gitlab server. Although this projet has had several contributers, I wrote significant portions of the following libraries:
+This repository was imported from MASA's private Gitlab server. Although this project has had several contributers, I wrote significant portions of the following libraries:
 - W25N01GV (SPI flash memory driver)
 - MS5607 (not on master branch, SPI pressure altimeter)
 - SerialComms (Python C code autogeneration scripts)
